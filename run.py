@@ -48,7 +48,7 @@ def main():
     # get response
     data = {}
     if sform.validate_on_submit() and sform.search.data:
-        data = searchTask(sform)
+        data = searchHoax(sform)
     
     # render HTML
     return render_template('index.html', sform = sform, data = data)

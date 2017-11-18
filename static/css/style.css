@@ -279,7 +279,7 @@ ul#menu-main > li > a:hover {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	min-height: 550px;
+	min-height: 700px;
 	margin-top: -60px;
 	padding-top:160px;
 	text-align:center;
@@ -495,6 +495,7 @@ section#services .align .sev_icon {
 section#services .span3 {
 	background:#e9e9e9;
 	padding: 20px 0;
+	margin: 10px;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
@@ -504,6 +505,14 @@ section#services .span3 {
 section#services .span3:hover {
 	background:#e3e3e3;
 	box-shadow: 1px 1px 6px #C1BAC1;
+}
+.progress {
+	margin: 0 5px 0px 5px;
+	border-radius: 10px;
+}
+
+.progress .progress-bar {
+	background-color: #3bc492;
 }
 /* Testimonials */
 
