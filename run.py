@@ -8,13 +8,6 @@ from stki_scripts.main import findHoax
 app = Flask(__name__)
 app.config.update(dict(SECRET_KEY='12345'))
 
-# UPLOAD_FOLDER = '/media/rahman/DATA_2/search-engine-python/text files/'
-# UPLOAD_FOLDER = '/media/rahman/DATA_2/search-engine-python/upload'
-# ALLOWED_EXTENSIONS = set(['txt'])
-
-# app = Flask(__name__)
-# app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-
 class SearchTask(FlaskForm):
     keyword = TextField('Keyword')
     search = SubmitField('Search')
