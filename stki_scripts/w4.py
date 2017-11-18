@@ -30,6 +30,7 @@ def sortdic(dic, descending=True, n=None):
     # key = list(dic.keys())
     # val = list(dic.values())
     # python 2
+    
     key = dic.keys()
     val = dic.values()
 
@@ -40,8 +41,6 @@ def sortdic(dic, descending=True, n=None):
     # return list(zip(key_ordered,val_ordered))
     # python 2
     return zip(key_ordered,val_ordered)
-
-
 
 def l2_normalizer(vector):
     """
