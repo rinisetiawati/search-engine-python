@@ -14,7 +14,7 @@ def findSim(pathfile, pathcorpus):
 
     this_path = os.path.split(__file__)[0]
     pathcorpus = os.path.join(this_path, pathcorpus)
-    pathfile   = os.path.join(this_path, pathfile)
+    pathfile = os.path.join(this_path, pathfile)
     # membaca sekaligus pre-processing semua artikel corpus simpan ke dictionary
     articles = {}
     for item in os.listdir(pathcorpus):
@@ -60,20 +60,13 @@ def findBow(pathfile, pathcorpus):
     """
 
     this_path = os.path.split(__file__)[0]
-    pathfile   = os.path.join(this_path, pathcorpus, pathfile)
+    pathfile = os.path.join(this_path, pathcorpus, pathfile)
 
-    # proses pre-processing (prepro_base)
-    articles = {}
-    for item in os.listdir(pathcorpus):
-        if item.endswith(".txt"):
-            with open(pathfile, 'r') as file:
-                articles[item] = w3.prepro_base(file.read())
+    with open(pathfile, 'r') as file:
+        articles = w3.prepro_base(file.read())    # representasi bow
 
-    # representasi bow
-    list_of_bow = []
-    for key, value in articles.items():
-        list_token = value.split()
-        dic = w4.bow(list_token)
+    list_token = articles.split()
+    dic = w4.bow(list_token)
 
     return w4.sortdic(dic, descending=True)
 

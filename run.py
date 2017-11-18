@@ -71,7 +71,7 @@ def represent():
     return render_template('home.html', sform = sform, data = data)
 
 @app.route('/bow', methods=['GET','POST'])
-def bow():
+def tampil():
     # create form
     sform = SearchTask(prefix='sform')
 
