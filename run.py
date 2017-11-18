@@ -88,7 +88,7 @@ def cek():
     data = {}
     if sform.validate_on_submit() and sform.search.data:
         data = searchHoax(sform)
-    
+
     # render HTML
     return render_template('hoax.html', sform = sform, data = data)
 

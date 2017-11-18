@@ -507,12 +507,16 @@ section#services .span3:hover {
 	box-shadow: 1px 1px 6px #C1BAC1;
 }
 .progress {
-	margin: 0 5px 0px 5px;
+	margin: 0 10px 0px 10px;
 	border-radius: 10px;
+	overflow: hidden;
 }
-
 .progress .progress-bar {
-	background-color: #3bc492;
+	background-color: #cc3939;
+}
+#services .results {
+	width: 500px;
+	margin: 0 auto;
 }
 /* Testimonials */
 

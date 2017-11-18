@@ -12,7 +12,13 @@ def euclidean(vector1, vector2):
     """
     dist = [(a - b)**2 for a, b in zip(vector1, vector2)]
     dist = math.sqrt(sum(dist))
-    return dist
+    """
+    Karna hasil euclidean adalah jarak, dimana jarak yg terkecil menunjukkan artikel yang terdekat
+    Sehingga hasilnya yang ditemukan diproses dengan cara :
+    100 - hasil ; hasilnya adalah semakin besar berarti menunjukkan artikel semakin mirip dengan artikel yang dimaksut
+    """
+    result = 100-round(dist,2)
+    return result
 
 def cosine(vector1, vector2):
     """
