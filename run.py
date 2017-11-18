@@ -56,7 +56,10 @@ def main():
         total += value
         number += 1 
 
-    prosentase = round(total/number, 2)
+    if number==0:
+        prosentase = 0
+    else:
+        prosentase = round(total/number, 2)
 
     # render HTML
     return render_template('index.html', sform = sform, data = data, prosentase = prosentase)
