@@ -40,12 +40,21 @@ def searchHoax(form):
     # res = {"title 1":0.3, "title 2":0.5, "title 3":1.3} # change the value here
     return res
 
-def allowed_file(filename):
-    return '.' in filename and \
-           filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
-
 @app.route('/', methods=['GET','POST'])
 def main():
+    # create form
+    sform = SearchTask(prefix='sform')
+
+    # get response
+    data = {}
+    if sform.validate_on_submit() and sform.search.data:
+        data = searchTask(sform)
+    
+    # render HTML
+    return render_template('index.html', sform = sform, data = data)
+
+@app.route('/represent', methods=['GET','POST'])
+def represent():
     # create form
     sform = SearchTask(prefix='sform')
 

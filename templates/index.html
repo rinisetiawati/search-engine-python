@@ -1,0 +1,365 @@
+    <!DOCTYPE HTML>
+    <html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <title>Ahoax - When The Truth Revealed</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Styles -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link rel='stylesheet' id='prettyphoto-css'  href="css/prettyPhoto.css" type='text/css' media='all'>
+    <link href="css/fontello.css" type="text/css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 7]>
+            <link href="css/fontello-ie7.css" type="text/css" rel="stylesheet">  
+        <![endif]-->
+    <!-- Google Web fonts -->
+    <style>
+    body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+    }
+    </style>
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="img/favicon.ico">
+    <!-- JQuery -->
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <!-- Load ScrollTo -->
+    <script type="text/javascript" src="js/jquery.scrollTo-1.4.2-min.js"></script>
+    <!-- Load LocalScroll -->
+    <script type="text/javascript" src="js/jquery.localscroll-1.2.7-min.js"></script>
+    <!-- bootstrap.min -->
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+    <!-- Load ProgressBar -->
+    <script type="text/javascript" src="js/progressbar.min.js"></script>
+    <!-- prettyPhoto Initialization -->
+    <script type="text/javascript" charset="utf-8">
+          $(document).ready(function(){
+            $("a[rel^='prettyPhoto']").prettyPhoto();
+          });
+        </script>
+    </head>
+    <body>
+    <!--******************** NAVBAR ********************-->
+    <div class="navbar-wrapper">
+      <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-inner">
+          <div class="container">
+            <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a>
+            <h1 class="brand"><a href="#top">Ahoax</a></h1>
+            <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
+            <nav class="pull-right nav-collapse collapse">
+              <ul id="menu-main" class="nav">
+                <li><a title="services" href="#services">Services</a></li>
+                <li><a title="team" href="#team">Team</a></li>
+              </ul>
+            </nav>
+          </div>
+          <!-- /.container -->
+        </div>
+        <!-- /.navbar-inner -->
+      </div>
+      <!-- /.navbar -->
+    </div>
+    <!-- /.navbar-wrapper -->
+    <div id="top"></div>
+    <!-- ******************** HeaderWrap ********************-->
+    <div id="headerwrap">
+      <header class="clearfix">
+        <h1><span>Ahoax!</span> When The Truth Revealed.</h1>
+        <div class="container">
+          <div class="row">
+            <div class="span12">
+              <h2>Masukkan artikel yang mau dideteksi kebenerannya.</h2>
+              <input type="text" name="your-email" placeholder="Masukkan artikel Anda" class="cform-text" size="40" title="Artikel Anda">
+              <input type="submit" value="Cek Kebenaran" class="cform-submit">
+            </div>
+          </div>
+          <h3 style="margin-top: 10px; color: white; ">*Masukkan lebih dari 500 karakter</h3>
+          <div class="row">
+            <div class="span12">
+              <ul class="icon">
+                <li><a href="https://github.com/capteinn/search-engine-python" target="_blank"><i class="fa fa-github"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </header>
+    </div>
+    <!--******************** Feature ********************-->
+    <div class="scrollblock">
+      <section id="feature">
+        <div class="container">
+          <div class="row">
+            <div class="span12">
+              <article>
+                <p>Jika Peluru membunuh tubuhmu,</p>
+                <p>Maka HOAX membunuh pikiranmu!</p>
+                <p><small><i>Ketika Kebenaran Terungkap - AHOAX</i></small></p>
+              </article>
+            </div>
+            <!-- ./span12 -->
+          </div>
+          <!-- .row -->
+        </div>
+        <!-- ./container -->
+      </section>
+    </div>
+    <hr>
+    <!--******************** Services Section ********************-->
+    <section id="services" class="single-page scrollblock">
+      <div class="container">
+        <div class="align"><i class="icon-cog-circled"></i></div>
+        <h1>Hasil Pencarian</h1>
+        <!-- Four columns -->
+        <div class="row">
+          <center><div id="progressBar"></div></center>  
+          <p class="indicate"><b>80%</b> Terdeteksi HOAX</p>
+        </div>
+        <br>
+        <div class="row">
+          <div class="span3">
+            <h2>Web design</h2>
+            <div id="progress1"></div>
+            <p class="indicate">Memiliki kemiripan <b>80%</b></p>
+          </div>
+          <!-- /.span3 -->
+          <div class="span3">
+            <h2>Print Design</h2>
+            <div id="progress2"></div>
+            <p class="indicate">Memiliki kemiripan <b>80%</b></p>
+          </div>
+          <!-- /.span3 -->
+          <div class="span3">
+            <h2>Ecommerce</h2>
+            <div id="progress3"></div>
+            <p class="indicate">Memiliki kemiripan <b>80%</b></p>
+          </div>
+          <!-- /.span3 -->
+          <div class="span3">
+            <h2>Marketing</h2>
+            <div id="progress4"></div>
+            <p class="indicate">Memiliki kemiripan <b>80%</b></p>
+          </div>
+          <!-- /.span3 -->
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container -->
+    </section>
+    <hr>
+    <!--******************** Testimonials Section ********************-->
+    <section id="testimonials" class="single-page hidden-phone">
+      <div class="container">
+        <div class="row">
+          <div class="blockquote-wrapper">
+            <blockquote class="mega">
+              <div class="span4">
+                <p class="cite">Anonymous :</p>
+              </div>
+              <div class="span8">
+                <p class="alignright">"HOAX, Melindungimu untuk sementara lalu menghancurkan mu untuk selamanya."</p>
+              </div>
+            </blockquote>
+          </div>
+          <!-- /.blockquote-wrapper -->
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container -->
+    </section>
+    <!--******************** Team Section ********************-->
+    <section id="team" class="single-page scrollblock">
+      <div class="container">
+        <div class="align"><i class="icon-group-circled"></i></div>
+        <h1>Meet the team</h1>
+        <!-- Five columns -->
+        <div class="row">
+          <div class="span2 offset1">
+            <div class="teamalign"> <img class="team-thumb img-circle" src="img/flat-avatar.png" alt=""> </div>
+            <h3>Hilmawan</h3>
+            <div class="job-position">08829</div>
+          </div>
+          <!-- ./span2 -->
+          <div class="span2">
+            <div class="teamalign"> <img class="team-thumb img-circle" src="img/flat-avatar.png" alt=""> </div>
+            <h3>Yulinda</h3>
+            <div class="job-position">web developer</div>
+          </div>
+          <!-- ./span2 -->
+          <div class="span2">
+            <div class="teamalign"> <img class="team-thumb img-circle" src="img/flat-avatar.png" alt=""> </div>
+            <h3>Aulia</h3>
+            <div class="job-position">graphic designer</div>
+          </div>
+          <!-- ./span2 -->
+          <div class="span2">
+            <div class="teamalign"> <img class="team-thumb img-circle" src="img/flat-avatar.png" alt=""> </div>
+            <h3>Rini</h3>
+            <div class="job-position">project manager</div>
+          </div>
+          <!-- ./span2 -->
+          <div class="span2">
+            <div class="teamalign"> <img class="team-thumb img-circle" src="img/flat-avatar.png" alt=""> </div>
+            <h3>Abdurrahman</h3>
+            <div class="job-position">09434</div>
+          </div>
+          <!-- ./span2 -->
+        </div>
+        <!-- /.row -->
+        <div class="row">
+          <div class="span10 offset1">
+            <hr class="featurette-divider">
+            <div class="featurette">
+              <h2 class="featurette-heading">Want to know more? <span class="muted">| a little about us</span></h2>
+              <p>Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores.</p>
+              <p>At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues.</p>
+              <p>A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.</p>
+            </div>
+            <!-- /.featurette -->
+            <hr class="featurette-divider">
+          </div>
+          <!-- .span10 -->
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container -->
+    </section>
+    <hr>
+    <div class="footer-wrapper">
+      <div class="container">
+        <footer>
+          <small>&copy; 2013 Inbetwin Network. All rights reserved.</small>
+        </footer>
+      </div>
+      <!-- ./container -->
+    </div>
+    <!-- Loading the javaScript at the end of the page -->
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+    <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+    <script type="text/javascript" src="js/site.js"></script>
+    
+    <script type="text/javascript">
+      // progressbar.js@1.0.0 version is used
+      // Docs: http://progressbarjs.readthedocs.org/en/1.0.0/
+
+      var bar = new ProgressBar.Line(progressBar, {
+        strokeWidth: 4,
+        easing: 'easeInOut',
+        duration: 1400,
+        color: '#FFEA82',
+        trailColor: '#eee',
+        trailWidth: 1,
+        svgStyle: {width: '100%', height: '25px'},
+        from: {color: '#FFEA82'},
+        to: {color: '#ED6A5A'},
+        step: (state, bar) => {
+          bar.path.setAttribute('stroke', state.color);
+        }
+      });
+
+      bar.animate(1.0);  // Number from 0.0 to 1.0
+
+      // BAR 1
+      var bar1 = new ProgressBar.Line(progress1, {
+        strokeWidth: 4,
+        easing: 'easeInOut',
+        duration: 1400,
+        color: '#FFEA82',
+        trailColor: '#eee',
+        trailWidth: 1,
+        svgStyle: {width: '225px', height: '15px'},
+        from: {color: '#FFEA82'},
+        to: {color: '#ED6A5A'},
+        step: (state, bar) => {
+          bar.path.setAttribute('stroke', state.color);
+        }
+      
+      });
+
+      bar1.animate(1.0);  // Number from 0.0 to 1.0
+
+      // BAR 2
+      var bar2 = new ProgressBar.Line(progress2, {
+        strokeWidth: 4,
+        easing: 'easeInOut',
+        duration: 1400,
+        color: '#FFEA82',
+        trailColor: '#eee',
+        trailWidth: 1,
+        svgStyle: {width: '225px', height: '15px'},
+        from: {color: '#FFEA82'},
+        to: {color: '#ED6A5A'},
+        step: (state, bar) => {
+          bar.path.setAttribute('stroke', state.color);
+        }
+      
+      });
+
+      bar2.animate(1.0);  // Number from 0.0 to 1.0
+
+      // BAR 2
+      var bar3 = new ProgressBar.Line(progress3, {
+        strokeWidth: 4,
+        easing: 'easeInOut',
+        duration: 1400,
+        color: '#FFEA82',
+        trailColor: '#eee',
+        trailWidth: 1,
+        svgStyle: {width: '225px', height: '15px'},
+        from: {color: '#FFEA82'},
+        to: {color: '#ED6A5A'},
+        step: (state, bar) => {
+          bar.path.setAttribute('stroke', state.color);
+        }
+      
+      });
+
+      bar3.animate(1.0);  // Number from 0.0 to 1.0
+
+      // BAR 2
+      var bar4= new ProgressBar.Line(progress4, {
+        strokeWidth: 4,
+        easing: 'easeInOut',
+        duration: 1400,
+        color: '#FFEA82',
+        trailColor: '#eee',
+        trailWidth: 1,
+        svgStyle: {width: '225px', height: '15px'},
+        from: {color: '#FFEA82'},
+        to: {color: '#ED6A5A'},
+        step: (state, bar) => {
+          bar.path.setAttribute('stroke', state.color);
+        }
+      
+      });
+
+      bar4.animate(1.0);  // Number from 0.0 to 1.0
+
+      // progressbar.js@1.0.0 version is used
+      // Docs: http://progressbarjs.readthedocs.org/en/1.0.0/
+    </script>
+
+    <!--ANALYTICS CODE-->
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-29231762-1']);
+	  _gaq.push(['_setDomainName', 'dzyngiri.com']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+  </body>
+</html>
