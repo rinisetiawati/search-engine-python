@@ -50,8 +50,16 @@ def main():
     if sform.validate_on_submit() and sform.search.data:
         data = searchHoax(sform)
     
+    total = 0
+    number = 0
+    for key, value in data:
+        total += value
+        number += 1 
+
+    prosentase = round(total/number, 2)
+
     # render HTML
-    return render_template('index.html', sform = sform, data = data)
+    return render_template('index.html', sform = sform, data = data, prosentase = prosentase)
 
 @app.route('/represent', methods=['GET','POST'])
 def represent():
