@@ -114,11 +114,11 @@ def findHoax(artikel, pathcorpus):
     jarak = {}
     for key, vektor in zip(articles.keys(), matrix_akhir):
         if key != findname:
-            jarak[key] = w5.euclidean(matrix_akhir[id_file], vektor)
+            jarak[key] = w5.cosine(matrix_akhir[id_file], vektor)
 
-    """
-    Karna hasil euclidean adalah yang terbesar adalah artikel yang paling mendekati/mirip
-    Maka akan disort dari yang terbesar dari yang terkecil
-    descendingnya = True
-    """
+    # """
+    # Karna hasil euclidean adalah yang terbesar adalah artikel yang paling mendekati/mirip
+    # Maka akan disort dari yang terbesar dari yang terkecil
+    # descendingnya = True
+    # """
     return w4.sortdic(jarak, descending=True, n=4)
