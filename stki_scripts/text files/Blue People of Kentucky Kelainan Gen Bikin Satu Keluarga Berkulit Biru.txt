@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Berita Indonesia Terkini - Kulit manusia umumnya berwarna kuning langsat, coklat atau gelap. Tapi satu keluarga di Kentucky memiliki kulit berwarna biru karena kelainan darah yang disebut methemoglobinemia, sehingga mendapat julukan 'Blue People of Kentucky'.
 
 National Institutes of Health melaporkan tidak ada data atau berapa banyak orang yang mengalami methemoglobinemia, tetapi insiden paling terkenal adalah Blue People of Kentucky dan keluarga Lurgan dari Irlandia.
@@ -22,4 +23,30 @@ Methmoglobinemia dalam kasus Fugates adalah genetik, berasal dari gen resesif ke
 Gejala methmoglobinemia dapat berupa kulit biru, sesak nafas, kelelahan, pusing, dan pingsan. Kasus-kasus ekstrim lainnya dapat menyebabkan aritmia jantung, kejang, koma bahkan kematian. Namun, 'Blue People of Kentucky' dapat bertahan hidup lama dan sehat
 .
 
+=======
+Berita Indonesia Terkini - Kulit manusia umumnya berwarna kuning langsat, coklat atau gelap. Tapi satu keluarga di Kentucky memiliki kulit berwarna biru karena kelainan darah yang disebut methemoglobinemia, sehingga mendapat julukan 'Blue People of Kentucky'.
+
+National Institutes of Health melaporkan tidak ada data atau berapa banyak orang yang mengalami methemoglobinemia, tetapi insiden paling terkenal adalah Blue People of Kentucky dan keluarga Lurgan dari Irlandia.
+
+Seperti dilansir dari Ehow, Selasa (15/6/2010), sebenarnya julukan 'Blue People of Kentucky' berasal dari keluarga Fugate yang tinggal di Hazard, Kentucky.
+
+Selama tahun 1800-an, Martin Fugate yang sudah berkulit biru menikah dengan anggota keluarga Smith yang juga membawa gen resesif. Hal ini menyebabkan keluarga Smith menjadi pembawa gen methemoglobinemia dan menurunkan kelainan darah ini pada keturunan-keturunan berikutnya.
+
+Keluarga Fugate dan Smith tinggal di daerah tersebut dan terus menghasilkan anak-anak dan keturunan selanjutnya berkulit biru. Dari dokumentasi terakhir, kasus ini terjadi hingga tahun 1970-an.
+
+'Blue People of Kentucky' pertama kali didiagnosis dengan methemoglobinemia pada tahun 1960 oleh seorang hematologis, Dr Madison Cawein.
+
+Menurut dongeng rakyat, kulit biru yang dialami Fugate terjadi karena penyakit
+jantung atau masalah paru-paru. Namun, pemeriksaan Dr Cawein menemukan keturunan Martin Fugate dalam kesehatan yang baik, dan ia mencurigai bentuk methmoglobinemia turunan.
+
+Menurut hasil penelitian Dr Scott dalam Journal of Clinical Investigation, yang meneliti methmoglobinemia Eskimo di Alaska, methmoglobinemia terjadi karena hilangnya enzim dalam sel darah merah.
+
+Ketiadaan enzim penting yang disebut diaphorase ini, memungkinkan komponen sel darah merah terdeoksigenasi (proses pengurangan oksigen terlarut) untuk membangun di dalam tubuh, sehingga memberikan balutan warna biru yang tampak jelas pada permukaan kulit.
+
+Methmoglobinemia dalam kasus Fugates adalah genetik, berasal dari gen resesif kedua orangtua, sehingga menyebabkan kekacauan pada keturunannya. Selain genetik, methmoglobinemia juga dapat disebabkan karena paparan bahan kimia, antibiotik dan anestesi.
+
+Gejala methmoglobinemia dapat berupa kulit biru, sesak nafas, kelelahan, pusing, dan pingsan. Kasus-kasus ekstrim lainnya dapat menyebabkan aritmia jantung, kejang, koma bahkan kematian. Namun, 'Blue People of Kentucky' dapat bertahan hidup lama dan sehat
+.
+
+>>>>>>> a1c16752365901070e6d9df541985fe8a91324a7
 Menurut Dr Cawein, methmoglobenemia dapat diobati dengan metilen biru, yang membuat tubuh mengimbangi kekurangan diaphorase. Obat ini akan dibuang melalui urine, sehingga obat metilen biru diperlukan setiap hari untuk mempertahankan warna kulit normal.[detikhelath][BeritaPerDetik]

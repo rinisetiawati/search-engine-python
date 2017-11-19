@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Liputan6.com, London - Pasangan suami istri Jay dan Anne Tate memiki misi khusus bagi Bumi. Selain memantau pergerakan asteroid, keduanya juga tengah menghitung secara sains kapan dunia hancur atau... kiamat. 
 
 Dalam sebuah fasilitas anti-kiamat, kedua pasangan suami istri itu memonitor pergerakan asteorid. Mereka memantau benda angkasa luar mana yang akan menghancurkan peradaban manusia di muka Bumi.
@@ -43,4 +44,51 @@ Pekerjaan saat ini sedang berlangsung di kubah seharga 97.000 pound sterling yan
 
 Namun, pemerintah Inggris yang kekurangan uang, sedikit menunjukkan minat pada pekerjaan Tates dan terhadap fasilitas yang mereka miliki. Kini keduanya bertahan atas sumbangan.
 
+=======
+Liputan6.com, London - Pasangan suami istri Jay dan Anne Tate memiki misi khusus bagi Bumi. Selain memantau pergerakan asteroid, keduanya juga tengah menghitung secara sains kapan dunia hancur atau... kiamat. 
+
+Dalam sebuah fasilitas anti-kiamat, kedua pasangan suami istri itu memonitor pergerakan asteorid. Mereka memantau benda angkasa luar mana yang akan menghancurkan peradaban manusia di muka Bumi.
+Dikutip dari Cambridge-News.co.uk pada Selasa (14/11/2017), pasangan itu mendirikan Spaceguard Center. Itu adalah satu-satunya fasilitas di Inggris yang memonitor asteorid dan komet yang pada suatu hari nanti bisa menghantam Bumi.
+
+Menurut Jay Tate, kehidupan di Bumi pernah hancur gara-gara asteroid.
+
+"Dan kami tidak ragu bahwa insiden itu akan kembali berulang," kata Tuan Tate.
+
+Mantan mayor Angkatan Darat Inggris bersama sang istri yang juga seorang guru, memiliki tujuan untuk mengidentifikasikan asteroid mana yang akan menghantam Bumi. Apa yang mereka lakukan bukan sekadar ramalan belaka, melainkan memakai perhitungan. Dengan demikian, mereka bisa segera menghubungi otoritas setempat jika insiden itu terjadi.
+
+Informasi mereka tegas dan sederhana untuk memberi waktu kepada para penguasa untuk bertahan melawan kekuatan apokaliptik dari sebuah batu yang meluncur ke arah Bumi pada jarak 35.000 mil per jam.
+
+Jay, sosok yang tanpa basa-basi berbicara tentang kematian umat manusia, saat ini melacak lebih dari 50 batuan di angkasa yang bergerak menuju padang gurun perbatasan Shropshire.
+
+NASA dan European Space Agency (ESA) membuat "Daftar Risiko", sebuah katalog benda "yang mendekat ke arah Bumi" yang telah menunjukkan kemampuannya untuk menghapuskan umat manusia. Kedua badan itu telah menyoroti tidak kurang dari 677 benda kecil yang menjadi penyebab kekhawatiran akan menghantam Bumi.
+
+Benda-benda itu diprediksi akan menghujani Bumi sekitar 800 tahun dari sekarang.
+
+"Tahun 2880 akan 'menyenangkan', karena saat itulah, hujan asteroid tiba," kata Jay yang menghitung kemungkinan itu di komputer.
+
+"Bumi tepatnya akan didatangi asteroid yang mengerikan pada 16 Maret 2880," tegasnya.
+
+"Itulah saat asteroid 1950DA, entah itu hanya melukai atmosfer kita, atau menghantam Bumi dalam kekuatan penuh membinasakan manusia atau kiamat," ujar Jay.
+
+Menurut Jay, masih belum dipastikan apakah dunia akan berakhir saat itu. Namun, dipastikan sebagian wilayah di Bumi akan hancur.
+
+"Kalau hancurnya sekitar 2 km persegi, memang tidak bisa dibilang kerusakan global. Tapi kalau lebih? kita belum tahu," ujar Jay.
+
+Meski demikian, sudah ada bukti bahwa asteroid turut membinasakan dinosaurus di masa lalu.
+
+"Di masa sekarang, manusia modern mampu bertahan dengan 'serangan' asteroid sebesar bola api yang masuk lewat atmosfer. Jadi, seberapa besarnya asteroid, di masa depan manusia wajib bisa bertahan," terang Jay.
+
+"Memang, belum ada hantaman asteroid dalam waktu dekat. Tapi di masa depan akan ada. Ini jelas tak bisa dihindarkan."
+
+Menurut pasangan itu, asteroid yang akan menghantam Bumi bisa dihancurkan. Itulah sebabnya The Spaceguard Center begitu vital. Ini adalah 'alarm' yang terkait dengan tata surya.
+
+Dulunya ada fasilitas Powys Observatory, Jay ditawari fasilitas tersebut, dekat dengan kota Knighton Welsh, 16 tahun yang lalu.
+
+Sekarang ini tempat itu tak terawat.
+
+Pekerjaan saat ini sedang berlangsung di kubah seharga 97.000 pound sterling yang memiliki kemampuan pelacakan.
+
+Namun, pemerintah Inggris yang kekurangan uang, sedikit menunjukkan minat pada pekerjaan Tates dan terhadap fasilitas yang mereka miliki. Kini keduanya bertahan atas sumbangan.
+
+>>>>>>> a1c16752365901070e6d9df541985fe8a91324a7
 Sebagai gantinya, Amerika Serikat, tertarik dengan apa yang pasangan itu kerjakan. Salah satunya adalah Stephen Hawking baru saja mengunjungi mereka.

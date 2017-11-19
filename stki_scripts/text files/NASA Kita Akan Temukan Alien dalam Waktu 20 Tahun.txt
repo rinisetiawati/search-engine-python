@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Liputan6.com, Pasadena - Para peneliti di NASA optimis bahwa alien akan ditemukan. Setidaknya, dalam 20 tahun mendatang, keberadaan makhluk angkasa luar itu akan segera terkuak.
 
 Keoptimisan tersebut didasari dengan usaha manusia selama ini mencari kehidupan ekstra teresial itu.
@@ -22,4 +23,30 @@ Sebagai syarat untuk mengetahui kemungkinan kehidupan yang sama dengan di Bumi, 
 
 "Terdeteksinya air pada dua bulan es benar-benar mengubah pendapat ilmuwan," jelas ilmuwan Morgan Cable dari NASA's Jet Propulsion Laboratory di Pasadena, California.
 
+=======
+Liputan6.com, Pasadena - Para peneliti di NASA optimis bahwa alien akan ditemukan. Setidaknya, dalam 20 tahun mendatang, keberadaan makhluk angkasa luar itu akan segera terkuak.
+
+Keoptimisan tersebut didasari dengan usaha manusia selama ini mencari kehidupan ekstra teresial itu.
+
+Apalagi, dalam beberapa tahun terakhir, kemampuan itu dapat meningkat dengan cepat. Penemuan Pluto pada tahun 1930 dianggap sebagai prestasi yang hanya terjadi sekali seumur hidup, bahkan tidak sampai 100 tahun kemudian. Tak hanya itu, lebih dari 3.500 exoplanet dari ribuan jenis sistem bintang sudah dapat dideteksi lokasinya.
+
+Para ahli mengatakan bahwa pencarian ini sangat bergantung kepada panduan dari karakteristik planet kita sendiri. Panduan tersebut dapat membantu ilmwuan menyingkirkan dunia yang tidak ramah (bagi manusia) dari dunia yang mungkin sangat menjanjikan untuk melangsungkan kehidupan, seperti bulan es Enceladus dan Europa.
+
+"Sebelum kami mencari kehidupan, kami akan mencari tahu planet seperti apa yang memiliki iklim yang kondusif —memungkinkan— bagi kehidupan," sebut Tony del Genio dari Goddard Institute for Space Studies di NASA, melansir dari Dailymail.co.uk, Jumat, (17/11/2017).
+
+"Kami menggunakan model iklim yang sama dengan yang kami gunakan untuk memproyeksikan perubahan iklim abad ke-21 di Bumi untuk melakukan simulasi exoplanet eksklusional yang telah ditemukan dan yang sudah diperkirakan (hipotetisnya)," lanjut del Genio.
+
+Ada banyak faktor yang berkontribusi dalam potensi kehidupan dari planet tersebut, termasuk jarak kedekatannya dengan sistem bintang.
+
+Faktor jarak kedekatan dengan sistem bintang dapat menentukan apakah planet memiliki kondisi yang baik untuk menunjang air; jika terlalu dekat, atau terlalu jauh, permukaannya bisa kering dan tandus, atau benar-benar beku.
+
+Sebagai syarat untuk mengetahui kemungkinan kehidupan yang sama dengan di Bumi, tentu saja adalah air.
+
+"Ke mana pun kita melihat, entah itu di gurun pasir atau Antartika atau bagian terdalam samudera atau bagian terdalam kerak Bumi yang telah kita jelajahi, selama ada tetesan kecil air, itu berarti ada kehidupan," jelas seorang narator dalam sebuah video milik NASA, How to Find a Living Planet.
+
+"Dan karena hal tersebut, pencarian ini sangat penting bagi pencarian NASA untuk mencari lingkungan lain yang bisa dihuni. Itu lah mengapa para ilmuwan merasa senang dengan air yang memancar dari bulan-bulan yang dingin —Europa dan Enceladus yang ada di luar tata surya kita. Bukan hanya memiliki air, mungkin mereka juga memiliki samudera global seperti yang kita miliki di Bumi," lanjut narator tersebut.
+
+"Terdeteksinya air pada dua bulan es benar-benar mengubah pendapat ilmuwan," jelas ilmuwan Morgan Cable dari NASA's Jet Propulsion Laboratory di Pasadena, California.
+
+>>>>>>> a1c16752365901070e6d9df541985fe8a91324a7
 "Kami pikir Enceladus membosankan dan dingin sampai misi yang dijalani oleh Cassini menemukan air laut di permukaannya," kata Cable. (Affifa Zahra)
